@@ -1,0 +1,11 @@
+spring:
+  profiles:
+    active: devrds
+
+
+#server:
+#  servlet:
+#    context-path: "/fanta-service"
+#
+#
+#
